@@ -1,3 +1,4 @@
+
 # basic options
 title: Sample Site
 author: Rob Foulkrod
@@ -9,3 +10,6 @@ github_username:  robfoulk
 # Build settings
 markdown: kramdown
 theme: minima
+
+header_pages:
+  - about.md
